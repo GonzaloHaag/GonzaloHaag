@@ -1,5 +1,5 @@
 <h1>Hola, soy Gonzalo Haag <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Frontend Developer 🎨</h2>
+<h2>FullStack developer 🎨</h2>
 
 ### Sobre Mí
 - Estudiante de Ingeniería Informatica.
