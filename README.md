@@ -3,10 +3,10 @@
 
 ### Sobre Mí
 - Estudiante de Ingeniería Informatica.
-- Santa Fe, Argentina.
-- Soy un desarrollador full stack de MERN y PERN.
+- Desarrollador Full stack de MERN y PERN.
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
 - Disfruto trabajando con el frontend porque quiero brindar la mejor experiencia visual a los usuarios que visitan mis proyectos.
+- Santa Fe, Argentina.
 
 ### Tecnologías
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
