@@ -2,8 +2,8 @@
 <h2>Frontend Developer 🎨</h2>
 
 ### Sobre Mí
-- Tengo 22 años, soy de Santa Fe, Argentina.
 - Estudiante de Ingeniería Informatica.
+- Santa Fe, Argentina.
 - Soy un desarrollador full stack de MERN y PERN.
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
 - Disfruto trabajando con el frontend porque quiero brindar la mejor experiencia visual a los usuarios que visitan mis proyectos.
