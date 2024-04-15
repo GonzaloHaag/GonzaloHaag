@@ -25,5 +25,5 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Contacto
-<a href="https://www.linkedin.com/in/gonzalo-haag"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gonzalo%20Haag-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/gonzalo-haag" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gonzalo%20Haag-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:gonzalohaag13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-gonzalohaag13@gmail.com-blue?style=flat-square&logo=gmail"></a>
