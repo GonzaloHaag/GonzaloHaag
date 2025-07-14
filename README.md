@@ -17,9 +17,9 @@
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=nextjs)
-  ![PHP](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=php)
-  ![Symfony](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=symfony)
-  ![Zustand](https://img.shields.io/badge/-Redux-333333?style=flat&logo=zustand)
+  ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
+  ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
+  ![Zustand](https://img.shields.io/badge/-Zustand-333333?style=flat&logo=zustand)
   <br/>
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
