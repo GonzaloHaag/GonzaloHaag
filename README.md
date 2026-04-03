@@ -2,7 +2,7 @@
 <h2>FullStack developer 🎨</h2>
 
 ### Sobre Mí
-- Estudiante de Ingeniería Informatica.
+- Estudiante de Ingeniería en Sistemas.
 - Desarrollador Full stack de MERN y PERN.
 - Desarrollador PHP y Symfony.
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
