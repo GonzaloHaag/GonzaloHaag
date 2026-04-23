@@ -4,7 +4,7 @@
 ### Sobre Mí
 - Estudiante de Ingeniería en Sistemas.
 - Desarrollador Full stack de MERN y PERN.
-- Desarrollador PHP y Symfony.
+- Desarrollador PHP - Symfony - Laravel.
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar cada día.
 - Disfruto trabajando con el frontend porque quiero brindar la mejor experiencia visual a los usuarios que visitan mis proyectos.
 - Santa Fe, Argentina.
